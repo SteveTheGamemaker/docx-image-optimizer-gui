@@ -1,4 +1,4 @@
-# DOCX Image Converter
+# 'Smush' DOCX Image Converter
 
 This tool helps reduce the size of `.docx` files by converting and resizing images within the document, saving space while maintaining image quality.
 
