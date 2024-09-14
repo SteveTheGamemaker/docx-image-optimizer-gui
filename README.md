@@ -1,4 +1,4 @@
-# DOCX Image Converter
+# 'Smush' DOCX Image Converter
 This Converter tool helps reduce the size of `.docx` files by converting and resizing images within the document, saving space while maintaining image quality. The Converter significantly reduces the tedium of performing the process manually.
 **Notes:** 
 - This process works on both locked and unlocked documents in SVN (since the Converter only saves copies of the files to a different location than the repo). 
